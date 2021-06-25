@@ -29,7 +29,7 @@ const Navbar = () => {
                     <NavLink exact activeClassName="menu_active" className="nav-link" to="/contact">Contact</NavLink>
                   </li>            
                 </ul>
-              </div>
+              </div> 
             </div>
           </nav>
         </div>

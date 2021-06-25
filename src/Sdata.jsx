@@ -35,7 +35,6 @@ const Sdata = [
     imgsrc : marketing,
     title: "Marketing management",
     text : "Marketing refers to activities a company undertakes to promote the buying or selling of a product, service, or good. It is one of the primary components of business management and commerce. Marketers can direct their product to other businesses or directly to consumers. ",
-  },
-  
+  },  
 ];
 export default Sdata;

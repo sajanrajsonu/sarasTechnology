@@ -22,9 +22,9 @@ const Common = (props) => {
               </div>
             </div>
           </div>
-        </div>
-      </section>
-    </>
+        </div> 
+      </section> 
+    </>  
   );
 };
 export default Common;

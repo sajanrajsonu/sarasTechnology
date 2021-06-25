@@ -11,5 +11,5 @@ const About = () => {
               btname="Contact Now"/>
     </>
   );
-};
+};  
 export default About;
