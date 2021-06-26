@@ -1,5 +1,5 @@
 import React from 'react';
-import web from "../src/Images/std.jpg";
+import web from "../src/Images/stment.svg";
 import Common from './Common'
 
 const Home = () => {

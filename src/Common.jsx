@@ -16,8 +16,8 @@ const Common = (props) => {
                     <NavLink to ={props.visit} className = "btn-get-started mb-5">{props.btname}</NavLink>
                   </div>
                 </div>
-                <div className="col-lg-6 order-2 order-lg-2 header-img">
-                  <img src ={props.imgsrc} className = "imf-fluid animated " alt = "Common_img" width="500px"/>
+                <div className="col-lg-6 order-2 order-lg-2 header-img ">
+                  <img src ={props.imgsrc} className = "imf-fluid animated " alt = "Common_img" width="500px" height="500px"/>
                 </div>
               </div>
             </div>
