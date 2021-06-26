@@ -18,7 +18,6 @@ const Service = () => {
                     imgsrc = {value.imgsrc}
                     title = {value.title}
                     text = {value.text}
-                    link = {value.link}
                   />
                 })
               }
